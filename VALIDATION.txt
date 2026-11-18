@@ -1,0 +1,1 @@
+2026-11-02：使用本机 WPILib JDK 17 和此前已构建的 2026.2.1/Phoenix 26.3.0 完整依赖 jar，对全部 Java 源码执行 javac 编译通过。Gradle 本次因 daemon 本机通信失败未完成完整构建；未执行实车或 GUI 验证。
